@@ -1,4 +1,4 @@
-author 'YOURNAME From Hunters Development'
+author 'Triston From Hunters Development'
 description ''
 repository 'https://discord.gg/ZhNtejyzEy'
 
